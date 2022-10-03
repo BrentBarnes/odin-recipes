@@ -18,10 +18,10 @@ This project aims to practice the basics of HTML.
 <p float = 'left' >
   <figure>
     <figcaption>Recipe Home Page</figcaption>
-    <img src="images/home_page.png" alt="Reciple home page" width="600" height="300">
+    <img src="home_page.png" alt="Reciple home page" width="600" height="300">
   </figure>
   <figure>
     <figcaption>Pumpkin Pie Recipe Page</figcaption>
-    <img src="images/pumpkin_pie.png" alt="Pumpkin pie recipe page" width="600" height="300">
+    <img src="pumpkin_pie.png" alt="Pumpkin pie recipe page" width="600" height="300">
   </figure>
 </p>
